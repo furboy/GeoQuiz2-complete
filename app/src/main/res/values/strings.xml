@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="question_australia">Canberra is the capital of Australia</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next!</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="question_greece">Sparta is the capital of Greece</string>
+    <string name="question_america">New York is the capital of America</string>
+    <string name="question_africa">Africa is a country </string>
+    <string name="question_russia">The October revolution happened in October</string>
+    <string name="next_button_context_description">Next Question.</string>
+    <string name="back_button_context_description">Last Question</string>
+</resources>
